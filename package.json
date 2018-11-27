@@ -1,0 +1,8 @@
+{
+  "name": "geektimedown",
+  "version": "1.0.0",
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "node-fetch": "^2.3.0"
+  }
+}
